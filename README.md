@@ -6,11 +6,6 @@
     </a>
 </p>
 <br /><br />
-<p align="center">
-    <a href="https://github.com/metabase/metabase">
-        <img src="https://platform.sh/images/deploy/console.svg" alt="Logo" height="200">
-    </a>
-</p>
 <br />
 <h1 align="center">Platform.sh Example Projects</h1>
 
